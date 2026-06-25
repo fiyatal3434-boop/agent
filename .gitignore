@@ -1,0 +1,27 @@
+# Build outputs
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# User Secrets
+secrets.json
+appsettings.Development.json
+*.usersecrets
+
+# Environment variables / keys
+.env
+config.json
+appsettings.json   # eğer içinde token varsa
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

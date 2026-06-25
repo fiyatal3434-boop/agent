@@ -1,0 +1,9 @@
+sakin
+private static readonly HashSet<string> ProtectedWords =
+[
+    "CPR",
+    "AED",
+    "ISO",
+    "İSG",
+    "OSGB"
+];
